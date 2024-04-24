@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  html{
+    font-size: 2rem;
+    max-width: 90%;
+    margin: auto;
+ } */
+body {
+   max-width: 90%;
+
+    border: 1px solid gray;
+    margin: 1rem auto;
+    font-size: 3rem;
+
+
+}
+/* vw */
+h1{
+    font-size: 0.8em;
+
+}
+.section1 {
+font-size: 0.5rem;
+}
+.section1 h3 {
+font-size: 1em;
+}
+.section2{
+font-size: 2rem;
+}
+
+.section2 p, h3{
+    font-size: 0.2567em;
+}
+.section3{
+    font-size: 2rem;
+   /* max-width: 5rem; */
+}
+.section3 .box1{
+    
+    width: 5rem; 
+    border: 1px solid red;
+}
+.section3 .box2{ 
+    max-width: 5em;
+    border: 1px solid red;
+
+}
+nav{
+    min-height: 10vh;
+    border: 1px solid purple;
+     max-width: 100%;
+     font-size: 1rem;
+}
+
+main{
+    min-height: 85vh;
+    border: 1px solid black;
+    /* max-width: 80vw; */
+}
+footer{
+    min-height: 10vh;
+    border: 1px solid dodgerblue;
+}
+
+.section3 .box3{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.section3 .box3 img{
+    max-width: 90%;
+    min-height: 4em;
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.jersey-25-regular {
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1em;
+    max-width: 0.3vh;
+  }
+  
